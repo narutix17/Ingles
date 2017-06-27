@@ -26,3 +26,5 @@ hence: por lo tanto, por eso
 upon:sobre
 above:encima
 bellow:abajo
+reach:alcance,extension,distancia
+scope:ambito,alcance
