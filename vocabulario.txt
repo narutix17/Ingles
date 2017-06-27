@@ -21,4 +21,4 @@ regret: lamentar
 avoid:evitar
 guess:adivinar
 guest:invitado
-
+hence: por lo tanto, por eso
