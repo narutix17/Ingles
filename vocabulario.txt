@@ -26,5 +26,11 @@ hence: por lo tanto, por eso
 upon:sobre
 above:encima
 bellow:abajo
-reach:alcance,extension,distancia
+reach:alcanzar,alcance,extension,distancia
 scope:ambito,alcance
+through: a traves, mediante
+throw:lanzar,tirar
+across: a traves
+Though: aunque, si quiera , sin embargo
+improved: mejorado
+task: tarea
