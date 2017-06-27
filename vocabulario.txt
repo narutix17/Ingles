@@ -3,6 +3,7 @@ early: temprano
 town: pueblo
 quiet: trankilo , silencioso
 quite: bastante
+enought:suficiente
 head: cabeza, dirigir , encabezar
 though: aunque , siquiera
 through: a travez , mediante
@@ -22,3 +23,6 @@ avoid:evitar
 guess:adivinar
 guest:invitado
 hence: por lo tanto, por eso
+upon:sobre
+above:encima
+bellow:abajo
