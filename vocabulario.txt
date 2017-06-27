@@ -1,0 +1,24 @@
+suddenly : repentinamente
+early: temprano
+town: pueblo
+quiet: trankilo , silencioso
+quite: bastante
+head: cabeza, dirigir , encabezar
+though: aunque , siquiera
+through: a travez , mediante
+whole: integro, totalidad
+odd: extraño, impar
+facts: hechos
+doubt: duda
+realise: darse cuenta de
+further: fomentar
+sligthly: ligeramente
+far:mucho, lejos
+nearly: casi , cerca
+shall: debera
+grumpy:gruñona
+regret: lamentar
+avoid:evitar
+guess:adivinar
+guest:invitado
+
