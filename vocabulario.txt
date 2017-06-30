@@ -1,5 +1,5 @@
 suddenly : repentinamente
-early: temprano
+early: temprano,reciente
 town: pueblo
 quiet: trankilo , silencioso
 quite: bastante
@@ -34,3 +34,15 @@ across: a traves
 Though: aunque, si quiera , sin embargo
 improved: mejorado
 task: tarea
+amount: cantidad
+among: entre
+avoid: evitar
+several: varios
+perform: realizar,desempeniar, actuar
+research:investigacion
+undesirable: indeseable
+involve: involucrar
+instead: en lugar
+against: en contra
+realise: realizar,darse cuenta
+release: lanzamiento,estreno
