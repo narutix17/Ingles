@@ -41,6 +41,7 @@ several: varios
 perform: realizar,desempeniar, actuar
 research:investigacion
 undesirable: indeseable
+approach:enfoque
 involve: involucrar
 instead: en lugar
 against: en contra
