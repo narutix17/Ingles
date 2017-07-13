@@ -47,3 +47,4 @@ instead: en lugar
 against: en contra
 realise: realizar,darse cuenta
 release: lanzamiento,estreno
+hice un cambio aki
