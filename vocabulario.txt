@@ -46,5 +46,5 @@ involve: involucrar
 instead: en lugar
 against: en contra
 realise: realizar,darse cuenta
-release: lanzamiento,estreno
+raleasex: en vez de lanzamiento y estreno
 hice un cambio aki
