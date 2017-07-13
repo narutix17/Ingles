@@ -45,5 +45,5 @@ approach:enfoque
 involve: involucrar
 instead: en lugar
 against: en contra
-realise: realizar,darse cuenta
-release: lanzamiento,estreno
+: realizar,darse cuenta
+release: lanzamiento
