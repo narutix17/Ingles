@@ -49,4 +49,4 @@ realise: realizar,darse cuenta
 raleasex: en vez de lanzamiento y estreno
 hice un cambio aki
 : realizar,darse cuenta
-release: lanzamiento
+release: lanzamientooooooooooo
